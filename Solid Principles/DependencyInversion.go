@@ -1,6 +1,6 @@
 package main
 
-// class should depend on onterfaces rather than concerte class
+// class should depend on interfaces rather than concerte class
 
 // The Dependency Inversion Principle states that high-level modules should not depend 
 // on low-level modules, but both should depend on abstractions. This principle promotes 
